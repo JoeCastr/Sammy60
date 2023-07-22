@@ -13,3 +13,6 @@ Plate screws are M2.5 x 0.45mm thread (just like the case screws) but you should
 Screw_weight = screws for the weight (these have a different thread and width)
 
 you need ALL of them
+
+![Whole](https://github.com/JoeCastr/Sammy60/assets/42586501/1feaf62f-8b7e-42d4-a3f5-f2158f47459f)
+![Back_Top_View](https://github.com/JoeCastr/Sammy60/assets/42586501/ec15f4cd-c0ad-406c-8e1f-07d869669831)
