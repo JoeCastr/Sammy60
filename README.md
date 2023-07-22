@@ -1,5 +1,7 @@
 # Sammy60
 ## Free case+plate files for HHKB top mount w/brass internal weight
+## Open source you can make your own, edit your own, profit from the design
+## Just please credit Stufayew 😊
 
 Screw_north = the longer screws that connect the top and bottom pieces
 
